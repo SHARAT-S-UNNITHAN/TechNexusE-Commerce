@@ -19,14 +19,14 @@
 ---
 
 ### 🛠️ Tech Stack
-
+'''
 💻 Languages:    Python, JavaScript, HTML5, CSS3, SQL
 🧩 Frameworks:   Django, Bootstrap, Tailwind CSS
 🖌️ Design Tools: Figma, Canva
 🛠️ Dev Tools:    VS Code, Git, GitHub, Netlify
 🗄️ Databases:   MySQL, SQLite
 🌐 APIs:        RESTful APIs, JSON
-
+'''
 
 🚀 Featured Projects
 🛒 TechNexus E-Commerce Prototype
@@ -69,4 +69,4 @@ A Django-based budgeting app with a clean, intuitive interface for personal fina
 
   <img src="https://komarev.com/ghpvc/?username=SHARAT-S-UNNITHAN&#x26;color=blueviolet" alt="Profile views">
 
-```
+
