@@ -46,9 +46,6 @@ An automated, sensor-based irrigation system using ESP32 with a custom app inter
 A Django-based budgeting app with a clean, intuitive interface for personal finance management.
 📊 GitHub Stats
 
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=SHARAT-S-UNNITHAN&#x26;theme=dracula&#x26;hide_border=true" alt="GitHub Streak">
-
-
   <img src="https://github-readme-stats.vercel.app/api?username=SHARAT-S-UNNITHAN&#x26;show_icons=true&#x26;theme=dracula" alt="GitHub Stats">
 
 ### 🔗 Connect With Me
