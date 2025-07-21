@@ -20,13 +20,14 @@
 
 ### 🛠️ Tech Stack
 
-```bash
 💻 Languages:    Python, JavaScript, HTML5, CSS3, SQL
 🧩 Frameworks:   Django, Bootstrap, Tailwind CSS
 🖌️ Design Tools: Figma, Canva
 🛠️ Dev Tools:    VS Code, Git, GitHub, Netlify
 🗄️ Databases:   MySQL, SQLite
 🌐 APIs:        RESTful APIs, JSON
+
+
 🚀 Featured Projects
 🛒 TechNexus E-Commerce Prototype
 A modern front-end prototype for an electronics e-commerce platform, built with HTML, CSS, and JavaScript.
